@@ -2,7 +2,7 @@
 
 ## Languages and Tools:
 
-<img align="left" alt="PHP" width="26px" src="./img/php.png" />
+<img align="left" alt="PHP" width="35px" src="./img/php.png" />
 <img align="left" alt="Laravel" width="26px" src="./img/laravel.png" />
 <img align="left" alt="JavaScript" width="26px" src="./img/javascript.png" />
 <img align="left" alt="VueJs" width="26px" src="./img/vuejs.png" />
