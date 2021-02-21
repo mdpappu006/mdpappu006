@@ -12,7 +12,7 @@
 <img align="left" alt="Sass" width="26px" src="./img/sass.png" />
 <img align="left" alt="GitHub" width="26px" src="./img/github.png" />
 <img align="left" alt="HTML5" width="26px" src="./img/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="24px" src="./img/visual-studio-code.png" />
 <img align="left" alt="SQL" width="26px" src="./img/sql.png" />
 <img align="left" alt="MySQL" width="35px" src="./img/mysql.png" />
 <img align="left" alt="Git" width="35px" src="./img/git.png" />
